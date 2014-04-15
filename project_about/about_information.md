@@ -1,7 +1,12 @@
-##Material outcome of the project
+##About the Project
 
-My vision for the material outcome of this project is in two parts: first, a catalog of epigraphic material I have, and second, a "guided tour" through that material.
+It is my goal with this project to create a resource for students and teachers of Latin epigraphy to bring Latin inscriptions into the classroom.  The benefits of using primary sources in the classroom are well-known, and Latin inscriptions, by nature formulaic, are accessible to students even in their first year of Latin.  Therefore, we have put together a collection of inscriptions aimed for classroom use.  This collection of photographs, which I took during my junior year abroad (2012-2013), is linked to grammatical, geographic, and prosopographic data, among other things.  As a result, the collection is sortable, searchable, and most importantly, adaptable to the needs of a curriculum.
 
-First, the catalog of epigraphic material should be a somewhat controlled entry into the data.  Since it is my primary goal to create a teaching tool, I hope to present my collection in a way that images and inscription data are easy to find.  For this reason, I would like to have a tool that allows for browsing the images and viewing the relevant information about the artifact (such as location, corpus reference, and historical information, where possible).  It would be especially useful to include the edited text for the inscription in the image in this view.  In addition, I want to include a menu of larger grammatical concepts and then smaller topics.  It may also be useful to make the inscriptions searchable by name (one could find all the inscriptions that mention Hadrian, for example), by location, and especially by vocabulary used.
+##More information
 
-Second, I want to create a "guided tour" through my collection.  This would be, in essence, a first-year curriculum.  Here, I will include lessons on each grammatical topic that reference specific features of images, and intersperse these lessons with contextual information (such as location, corpus reference, and historical information) where possible and where it may be useful or interesting for a student of Latin.  A tour like this will allow me to pick out and teach to specific inscriptions - while it certainly will not address every single image, it will be a guide through the highlights and provide access to the rest of the collection.  With the addition of how-to guides for the inscriptions, I intend to create a sort of workbook of Latin epigraphy.
+- What is an RDF graph?
+- How the collection was created
+- About the editing process
+- How to use this project
+- About Github
+- Markdown, version control, and the classroom
